@@ -474,6 +474,7 @@ font-weight: var(--fw-700); }
 .hero-title {
   text-transform: uppercase;
   word-break: break-all;
+  font-size:30px;
 }
 
 .hero-subtitle {
